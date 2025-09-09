@@ -20,3 +20,15 @@ Here are some valuable resources that I use to enhance my problem-solving skills
 - **[NeetCode.io](https://neetcode.io/)**: A platform that offers structured study plans and curated lists of coding problems, helping you systematically prepare for technical interviews.
 
 Feel free to explore the repository and use the solutions to improve your coding skills. Happy coding!
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/soumith2105/leetcode-solutions/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/soumith2105/leetcode-solutions/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
